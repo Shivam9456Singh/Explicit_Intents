@@ -1,6 +1,7 @@
 # Emulator API 22 pixel 6--------
 
-<img src="https://user-images.githubusercontent.com/link-to-your-image.png](https://github.com/Shivam9456Singh/Explicit_Intents/assets/113454708/e04772fa-cbbf-4333-9af9-3b05395ffe71" width="200" />
+<img src="https://user-images.githubusercontent.com/github.com/Shivam9456Singh/Explicit_Intents/assets/113454708/0c75c1cd-6db2-4375-9d52-c37d7cb2d021" width="200" />
+
 
 # example of explicit intent.
 
